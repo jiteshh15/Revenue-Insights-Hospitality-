@@ -28,9 +28,9 @@ Revenue Insights in the hospitality domain help businesses track and optimize th
 Before jumping into the analysis, it's important to understand the available data to ensure that decisions are well-informed and the right techniques are used. Here's an explanation of the key tables and metrics:
 
 Dimension Tables (Static Information):
-    - dim_date: Contains information about dates, such as year, month, day, and other time-related attributes.
-    - dim_hotels: Holds details about each hotel, such as its name, location, and amenities.
-    - dim_rooms: Includes data about different room types, room numbers, and their respective capacities.
+- dim_date: Contains information about dates, such as year, month, day, and other time-related attributes.
+- dim_hotels: Holds details about each hotel, such as its name, location, and amenities.
+- dim_rooms: Includes data about different room types, room numbers, and their respective capacities.
     
 Fact Tables (Transactional Data):
 - fact_aggregated_bookings: Summarizes bookings, including the total number of rooms booked, cancellation rates, and revenue generated across various time periods.
