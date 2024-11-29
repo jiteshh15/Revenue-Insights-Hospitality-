@@ -32,7 +32,7 @@ Dimension Tables (Static Information):
     - dim_date: Contains information about dates, such as year, month, day, and other time-related attributes.
     - dim_hotels: Holds details about each hotel, such as its name, location, and amenities.
     - dim_rooms: Includes data about different room types, room numbers, and their respective capacities.
-    - 
+    
 Fact Tables (Transactional Data):
 - fact_aggregated_bookings: Summarizes bookings, including the total number of rooms booked, cancellation rates, and revenue generated across various time periods.
 - fact_bookings: Contains detailed booking data, such as guest names, check-in/check-out dates, room types, and payment details.
