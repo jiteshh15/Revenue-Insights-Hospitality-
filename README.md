@@ -64,3 +64,15 @@ Other Important Metrics:
 - RevPAR WoW Change %: The week-over-week change in revenue per available room.
 - Realization WoW Change %: The week-over-week change in the realization percentage of revenue.
 - DSRN WoW Change %: The week-over-week change in daily sellable room nights.
+
+## Data Model
+
+In data analysis and reporting, data modeling is essential as it serves as the foundation for creating accurate and efficient reports. A strong data model ensures that the visuals you build are based on well-structured, reliable data. Without good data modeling, the performance and functionality of your reports can suffer.
+
+To make sure our reports run smoothly, we follow best practices in data modeling. These practices help ensure data is organized and easy to work with, improving both performance and usability. For this project, we’ve implemented the Snowflake Schema data modeling method, which helps break down data into smaller, more manageable pieces and minimizes redundancy.
+
+By following these practices, we ensure that our reports are optimized and ready to deliver insightful, high-performing visuals.
+
+![Project_Screenshot_2](https://github.com/user-attachments/assets/c223e1d4-69c2-4a3a-a9e7-140dcc8c0bc2)
+
+and you can check out full Report here: 
