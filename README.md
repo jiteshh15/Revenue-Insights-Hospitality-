@@ -4,6 +4,8 @@
 
 Revenue Insights in the hospitality domain help businesses track and optimize their income. By analyzing data from bookings, customer behavior, and seasonal trends, these insights reveal patterns that can improve pricing, enhance marketing strategies, and increase profits.
 
+[Live Report Link](https://project.novypro.com/oCuMJ5)
+
 # 𝐓𝐞𝐜𝐡 𝐬𝐤𝐢𝐥𝐥𝐬 𝐈 𝐚𝐜𝐪𝐮𝐢𝐫𝐞𝐝 𝐦𝐞𝐧𝐭𝐢𝐨𝐧𝐞𝐝: 
 
 - PowerBI Desktop
