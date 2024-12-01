@@ -75,5 +75,3 @@ To make sure our reports run smoothly, we follow best practices in data modeling
 By following these practices, we ensure that our reports are optimized and ready to deliver insightful, high-performing visuals.
 
 ![Project_Screenshot_2](https://github.com/user-attachments/assets/c223e1d4-69c2-4a3a-a9e7-140dcc8c0bc2)
-
-and you can check out full Report here: 
